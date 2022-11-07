@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PortfolioCharnay" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorOnPrimary">@color/blanc</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/violet</item>
+        <item name="colorOnSecondary">@color/noir</item>
+        <!-- Status bar color. -->
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
